@@ -44,5 +44,7 @@ const data4 : (string | number)[] = [1 , 2, "hi"]; // this is the array that can
 
 let seatAllotment : "aisle" | "middle"  | "window"
 
-seatAllotment = "aisle"
-seatAllotment = "crew"
+// seatAllotment = "aisle"
+// seatAllotment = "crew"
+
+
